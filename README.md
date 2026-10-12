@@ -2,20 +2,14 @@
 ### Hi there 👋
 
 Repositorio Institucional de la Carrera de Ingeniería de Sistemas e Ingeniería Informática de la Facultad Nacional de Ingeniería - Universidad Técnica de Oruro.
+<!-- seccion:participar -->
+## 🤝 Cómo participar
 
-<!-- PARTICIPAR:START -->
-## Cómo participar
 ¿Quieres aportar al proyecto?
-Te invitamos a empezar por los issues con la etiqueta good first issue, ideales para tu primera contribución.
-Consulta la guía de colaboración en [CONTRIBUTING.md](CONTRIBUTING.md) y la [guía de primeros pasos](docs/guia-contribuidor-primeros-pasos.md) para conocer el flujo de trabajo.
-
-<!-- GOOD_FIRST_ISSUES:START -->
-<!-- GOOD_FIRST_ISSUES:END -->
-<!-- PARTICIPAR:END -->
-
+Te invitamos a empezar por los issues con la etiqueta good first issue, ideales para tu primera contribución. Consulta la guía de colaboración en [CONTRIBUTING.md](https://github.com/sis-inf/sis-inf/blob/main/CONTRIBUTING.md) y la [guía de primeros pasos](https://github.com/sis-inf/sis-inf/blob/main/CONTRIBUTING.md#primeros-pasos) para conocer el flujo de trabajo.
 
 <p align="center">Software libre institucional · Hecho con 💙 por docentes y estudiantes de Ingeniería de Sistemas e Ingeniería Informática – FNI – UTO · <a href="https://github.com/sis-inf/sis-inf/blob/main/LICENSE">Licencia</a></p>
-<!-- /seccion:pie -->
+<!-- /seccion:participar -->
 
 <!-- INICIO: carrera -->
 
